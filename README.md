@@ -1,6 +1,9 @@
 # UCSF-Data_Driven_Neuro
 A repository to store course materials for the data-driven neuroscience in python short-course.
 
+(forked from main workshop repository for personal use by Ken Burke)
+
+## organization
 This is currently organized into three main sections.
 
 * An introduction to [Machine Learning](machine_learning/) in python, as well as specifically for fMRI encoding and decoding models.
